@@ -1,0 +1,34 @@
+{
+  "name": "react-scripts-boilerplate",
+  "version": "1.0.0",
+  "description": "基于create-react-app的react开发环境易用模板",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-script eject"
+  },
+  "keywords": [
+    "react",
+    "react-scripts",
+    "react boilerplate"
+  ],
+  "author": "tommyshao",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomieric/react-scripts-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomieric/react-scripts-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tomieric/react-scripts-boilerplate#readme",
+  "license": "MIT",
+  "dependencies": {
+    "react-scripts": "^0.7.0"
+  },
+  "devDependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
